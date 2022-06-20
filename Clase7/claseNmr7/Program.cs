@@ -1,7 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-//string[] Cars = { "Ford", "Fiat", "BMW", "Toyota" };
+﻿//string[] Cars = { "Ford", "Fiat", "BMW", "Toyota" };
 
 //Console.WriteLine(Cars[0]);
 
